@@ -1,4 +1,5 @@
-## XIN CHÀO🧸! RẤT VUI ĐƯỢC LÀM QUEN VỚI BẠN!!!!!!!👋
+## XIN CHÀO🧸!
+
 
 <!--
 **anhtuanbui1404/anhtuanbui1404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
